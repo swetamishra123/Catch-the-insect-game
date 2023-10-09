@@ -45,3 +45,10 @@ To set up the project locally:
 1. Clone the GitHub repository:
    ```shell
    git clone https://github.com/swetamishra123/Catch-the-insect-game.git
+
+
+2. Open the project folder:
+
+    ```bash
+    cd Catch-the-insect-game
+3. Open the [index.html](index.html) file in your web browser to play the game locally.
