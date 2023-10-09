@@ -32,11 +32,6 @@ Catch The Insect is a web-based game where you catch insects with your mouse cur
 
 Play the game online: [Catch The Insect Game](https://catch-the-insect-game.vercel.app/)
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
 
 ## Project Setup
 
@@ -52,3 +47,16 @@ To set up the project locally:
     ```bash
     cd Catch-the-insect-game
 3. Open the [index.html](index.html) file in your web browser to play the game locally.
+
+
+## Contributing
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
+
+1. Fork the project.
+2. Create a new branch for your feature or bugfix: git checkout -b feature-name.
+3. Make your changes and commit them: git commit -m 'Add new feature'.
+4. Push to your fork: git push origin feature-name.
+5. Open a pull request to the main repository.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
